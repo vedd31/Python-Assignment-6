@@ -1,0 +1,3 @@
+pizza,199.0,10
+burger,149.0,10
+french fries,99.0,20
